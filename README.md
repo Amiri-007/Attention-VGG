@@ -175,4 +175,3 @@ Inside **`catbins`** are your TensorFlow checkpoint files for category-specific 
   - **Michael R. Amiri** at [ma7422@nyu.edu](mailto:ma7422@nyu.edu)
 
 We hope you find this project helpful for exploring attention-based interpretability in VGG16 networks!
-```
